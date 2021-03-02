@@ -1,4 +1,4 @@
-# 大量的Go语言示例，练习和测验
+# 大量的 Go 语言示例，练习和测验
 
 实践是最好的学习方式。 在此代码库内，您将找到大量的Go语言示例，练习和测验。我最初是为了我的 ***[Go语言: 训练营课程](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/?referralCode=5CE6EB34E2B1EF4A7D37)*** 建立了此代码库. 后来，我添加了很多练习，并且我希望所有尚未注册该课程的程序员也可以免费学习。 这就是这个代码库在这里的原因。希望你能从中有所收获。
 
@@ -15,7 +15,7 @@
 
 * **[在Twitter上关注我](https://twitter.com/inancgumus)**
 
-  _我经常在Twitter上分享Go的注意事项和小技巧。_
+  _我经常在Twitter上分享 Go 的注意事项和小技巧。_
 
   [![@inancgumus](https://img.shields.io/twitter/follow/inancgumus.svg?style=social&label=@inancgumus)](https://twitter.com/inancgumus)
 
